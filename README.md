@@ -1,6 +1,12 @@
 # AnswEarApp-AndroidApp
 
 An android mobile application developed using TypeScript. It is an examination tool intended to aid the visually impaired students by implementing speech recognition and speech synthesis.
+_______________________________________________________________________________
+
+
+This repository contains the code for the Android application.
+
+_______________________________________________________________________________
 
 ENVIRONMENT SETUP
 
