@@ -1,4 +1,4 @@
-# Shioreta-AnswEarApp-AndroidApp
+AnswEarApp-AndroidApp
 
 An android mobile application developed using TypeScript. It is an examination tool intended to aid the visually impaired students by implementing speech recognition and speech synthesis.
 
