@@ -6,6 +6,8 @@ _______________________________________________________________________________
 
 This repository contains the code for the Android application.
 
+The link for the repository of the backend part of the project which contains the GRU model, PHP files, and the SQL file: https://github.com/Shioreta/AnswEarApp
+
 _______________________________________________________________________________
 
 ENVIRONMENT SETUP
